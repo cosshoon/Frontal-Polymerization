@@ -1,0 +1,11 @@
+*.xdmf
+*.h5
+*.pyc
+*.pptx
+*.pdf
+*.DS_Store
+tmp*
+*.vscode
+frontal_polymerization/composites/laminate/laminate_analysis_old.ipynb
+#*.png
+*.mov
