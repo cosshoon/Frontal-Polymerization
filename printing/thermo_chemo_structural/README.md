@@ -1,0 +1,3 @@
+Code developed by Prof. Aditya Kumar for simulating the thermo-chemo-structural behavior of DCPD polymer extrusion. 
+Accounts for deformations in the entire printed structure by treating the uncured and cured regions as very compliant and stiff materials, respsectively.
+A solid-solid phase transition is accomplished using eigenstrains, which "freeze" the deformation of the gel when the front passes it.
